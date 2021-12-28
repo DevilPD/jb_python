@@ -1,5 +1,3 @@
-# https://kmong.com/custom-project/requests/114644
-
 import cv2
 import os
 from tkinter import *
